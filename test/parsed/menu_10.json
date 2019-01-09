@@ -1,0 +1,686 @@
+[
+  {
+    "title": "GREEN PEA FAVA £4.75",
+    "price": 4.75
+  },
+  {
+    "title": "Mashed green peas with olive",
+    "price": null
+  },
+  {
+    "title": "oil and lemon, topped with red",
+    "price": null
+  },
+  {
+    "title": "onions, tomato and chilli. The",
+    "price": null
+  },
+  {
+    "title": "Greek version of mushy peas!",
+    "price": null
+  },
+  {
+    "title": "(185kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "BEETROOT & LENTIL",
+    "price": null
+  },
+  {
+    "title": "SALAD £4.50",
+    "price": 4.5
+  },
+  {
+    "title": "Green lentils and beetroot in",
+    "price": null
+  },
+  {
+    "title": "our tangy lemon dressing.",
+    "price": null
+  },
+  {
+    "title": "(306kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "M E LITZ A N OSAL ATA £5.00",
+    "price": 5
+  },
+  {
+    "title": "A light and fragrant blend of",
+    "price": null
+  },
+  {
+    "title": "smoked aubergine, garlic,",
+    "price": null
+  },
+  {
+    "title": "shallots and lemon.",
+    "price": null
+  },
+  {
+    "title": "(211kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "SPICY WALNUT & RED",
+    "price": null
+  },
+  {
+    "title": "PEPPER DIP £5.00",
+    "price": 5
+  },
+  {
+    "title": "Inspired from Alexander the",
+    "price": null
+  },
+  {
+    "title": "Great’s travels - an eastern",
+    "price": null
+  },
+  {
+    "title": "Mediterranean character spicy",
+    "price": null
+  },
+  {
+    "title": "dip, with red peppers and",
+    "price": null
+  },
+  {
+    "title": "walnuts.",
+    "price": null
+  },
+  {
+    "title": "(353kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "HOUMOUS £4.75",
+    "price": 4.75
+  },
+  {
+    "title": "Our daily home blend of",
+    "price": null
+  },
+  {
+    "title": "chickpeas, rich in tahini and",
+    "price": null
+  },
+  {
+    "title": "delicately spiced with cumin and",
+    "price": null
+  },
+  {
+    "title": "fresh chilli. (342kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "SANTORINI FAVA £4.75",
+    "price": 4.75
+  },
+  {
+    "title": "Yellow lentils from Santorini,",
+    "price": null
+  },
+  {
+    "title": "cooked and blended with herbs",
+    "price": null
+  },
+  {
+    "title": "and spices, topped with Santorini",
+    "price": null
+  },
+  {
+    "title": "capers.",
+    "price": null
+  },
+  {
+    "title": "(241kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "CHICKPEA FILO",
+    "price": null
+  },
+  {
+    "title": "TRIANGLES £5.25",
+    "price": 5.25
+  },
+  {
+    "title": "Two filo pastry parcels with",
+    "price": null
+  },
+  {
+    "title": "chickpeas, cumin, turmeric,",
+    "price": null
+  },
+  {
+    "title": "and a touch of sundried",
+    "price": null
+  },
+  {
+    "title": "tomato & chilli. (593kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "FALAFEL £5.50",
+    "price": 5.5
+  },
+  {
+    "title": "Our signature recipe falafel,",
+    "price": null
+  },
+  {
+    "title": "served with a tahini dip, pickled",
+    "price": null
+  },
+  {
+    "title": "celery & carrot, tomato & onion",
+    "price": null
+  },
+  {
+    "title": "salsa and sprinkled with sweet",
+    "price": null
+  },
+  {
+    "title": "paprika. (369kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "MOUSSAKA £5.75",
+    "price": 5.75
+  },
+  {
+    "title": "Classic cinnamon taste,",
+    "price": null
+  },
+  {
+    "title": "with layered potato, courgette,",
+    "price": null
+  },
+  {
+    "title": "aubergine and jackfruit mix.",
+    "price": null
+  },
+  {
+    "title": "Made without béchamel.",
+    "price": null
+  },
+  {
+    "title": "(214kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "GRILLED AUBERGINE WITH",
+    "price": null
+  },
+  {
+    "title": "GARLIC TOMATO SAUCE",
+    "price": null
+  },
+  {
+    "title": "£5.25",
+    "price": 5.25
+  },
+  {
+    "title": "Chargrilled aubergine served",
+    "price": null
+  },
+  {
+    "title": "with garlic and tomato sauce.",
+    "price": null
+  },
+  {
+    "title": "(145kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "JACKFRUIT STIFADO £5.75",
+    "price": 5.75
+  },
+  {
+    "title": "The vegan version of a",
+    "price": null
+  },
+  {
+    "title": "classic Greek dish - jackfruit,",
+    "price": null
+  },
+  {
+    "title": "slow-cooked with button",
+    "price": null
+  },
+  {
+    "title": "mushrooms, shallots & aniseed.",
+    "price": null
+  },
+  {
+    "title": "(182kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "GREEN BEANS, FENNEL",
+    "price": null
+  },
+  {
+    "title": "& TOMATO (FASOLAKIA)",
+    "price": null
+  },
+  {
+    "title": "£5.25",
+    "price": 5.25
+  },
+  {
+    "title": "Green beans & fennel,",
+    "price": null
+  },
+  {
+    "title": "slow-cooked in a rich tomato",
+    "price": null
+  },
+  {
+    "title": "sauce, spiced with cinnamon.",
+    "price": null
+  },
+  {
+    "title": "(100kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "DOLMADES £5.00",
+    "price": 5
+  },
+  {
+    "title": "Vine leaves stuffed with rice,",
+    "price": null
+  },
+  {
+    "title": "tomato and fresh herbs.",
+    "price": null
+  },
+  {
+    "title": "(246kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "POURGOURI -",
+    "price": null
+  },
+  {
+    "title": "B U LG U R WH E AT £3.75",
+    "price": 3.75
+  },
+  {
+    "title": "A classic Cypriot dish. Tonia’s",
+    "price": null
+  },
+  {
+    "title": "mother’s recipe of cracked",
+    "price": null
+  },
+  {
+    "title": "wheat, with tomatoes and",
+    "price": null
+  },
+  {
+    "title": "onion. (190kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "SPINACH WITH GIGANDES",
+    "price": null
+  },
+  {
+    "title": "£5.00",
+    "price": 5
+  },
+  {
+    "title": "Spinach and hearty giant beans,",
+    "price": null
+  },
+  {
+    "title": "cooked in a tomato and garlic",
+    "price": null
+  },
+  {
+    "title": "sauce. (540kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "GREEK OLIVES £2.75",
+    "price": 2.75
+  },
+  {
+    "title": "The ideal Mediterranean nibble, whilst you",
+    "price": null
+  },
+  {
+    "title": "decide what to order. (314kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "CRUDITÉS £3.00",
+    "price": 3
+  },
+  {
+    "title": "Fresh-cut carrot, celery and cucumber.",
+    "price": null
+  },
+  {
+    "title": "(47kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "GREEK FLATBREAD £3.00",
+    "price": 3
+  },
+  {
+    "title": "ADD OLIVE OIL & DUKKAH £3.25",
+    "price": 3.25
+  },
+  {
+    "title": "Our twist on an Eastern Mediterranean",
+    "price": null
+  },
+  {
+    "title": "classic. Dukkah – a spicy mix of ground,",
+    "price": null
+  },
+  {
+    "title": "dry roasted nuts and seeds.",
+    "price": null
+  },
+  {
+    "title": "(533kcal) / (621kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "COLD MEZE",
+    "price": null
+  },
+  {
+    "title": "HOT MEZE",
+    "price": null
+  },
+  {
+    "title": "SOUVLAKI WRAPS",
+    "price": null
+  },
+  {
+    "title": "“NO FETA ” GREEK SALAD",
+    "price": null
+  },
+  {
+    "title": "Regular £4.25 / Large £7.00",
+    "price": 4.25
+  },
+  {
+    "title": "Hearty and rustic, with tomatoes,",
+    "price": null
+  },
+  {
+    "title": "cucumber, peppers, Greek olives,",
+    "price": null
+  },
+  {
+    "title": "red onion and olive oil, finished",
+    "price": null
+  },
+  {
+    "title": "with Greek oregano from",
+    "price": null
+  },
+  {
+    "title": "Mavrouda, Thessaloniki.",
+    "price": null
+  },
+  {
+    "title": "(225kcal) / (450kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "N EW POTATO ES £3.50",
+    "price": 3.5
+  },
+  {
+    "title": "Delicate, nutty and tossed in",
+    "price": null
+  },
+  {
+    "title": "olive oil and lemon juice.",
+    "price": null
+  },
+  {
+    "title": "(271kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "CHIPS £3.50",
+    "price": 3.5
+  },
+  {
+    "title": "Fluffy, light and fried to",
+    "price": null
+  },
+  {
+    "title": "perfection. (813kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "AEGEAN SLAW £3.75",
+    "price": 3.75
+  },
+  {
+    "title": "Thinly shredded cabbage,",
+    "price": null
+  },
+  {
+    "title": "carrot, red and green peppers,",
+    "price": null
+  },
+  {
+    "title": "with an olive oil dressing.",
+    "price": null
+  },
+  {
+    "title": "(240kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "SIDES & SALADS",
+    "price": null
+  },
+  {
+    "title": "BA KL AVA £4.25",
+    "price": 4.25
+  },
+  {
+    "title": "Homemade, crisp filo pastry",
+    "price": null
+  },
+  {
+    "title": "with walnuts. (542kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "VANILLA ICE CREAM",
+    "price": null
+  },
+  {
+    "title": "£3.75",
+    "price": 3.75
+  },
+  {
+    "title": "(525kcal) V VG GF",
+    "price": null
+  },
+  {
+    "title": "LUXURY SORBET £3.75",
+    "price": 3.75
+  },
+  {
+    "title": "Lemon (261kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "Mango (283kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "* Soya milk available for",
+    "price": null
+  },
+  {
+    "title": "tea/coffee upon request.",
+    "price": null
+  },
+  {
+    "title": "DESSERTS",
+    "price": null
+  },
+  {
+    "title": "SOUVLAKI WRAPS £6.25 each",
+    "price": 6.25
+  },
+  {
+    "title": "Our gorgeous flatbread with",
+    "price": null
+  },
+  {
+    "title": "chips inside, with fresh tomatoes,",
+    "price": null
+  },
+  {
+    "title": "red onion, tahini sauce and sweet",
+    "price": null
+  },
+  {
+    "title": "paprika.",
+    "price": null
+  },
+  {
+    "title": "Choose Between:",
+    "price": null
+  },
+  {
+    "title": "JACKFRUIT GYROS WITH",
+    "price": null
+  },
+  {
+    "title": "TAH I N I - spicy!",
+    "price": null
+  },
+  {
+    "title": "(707kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "FALAFEL WITH TAHINI",
+    "price": null
+  },
+  {
+    "title": "(1169kcal) V VG",
+    "price": null
+  },
+  {
+    "title": "Although dishes identified are gluten free, as we have products in the restaurant that contain gluten, there is a possibility that traces of gluten may still be found in them. The same situation",
+    "price": null
+  },
+  {
+    "title": "can occur with our vegetarian and vegan dishes, which can come in contact with other products. Menu descriptions may not include all ingredients; more detailed allergen information is",
+    "price": null
+  },
+  {
+    "title": "available upon request. All our dishes may contain traces of nuts.",
+    "price": null
+  },
+  {
+    "title": "V ITEMS ARE SUITABLE FOR VEGETARIANS.",
+    "price": null
+  },
+  {
+    "title": "VG ITEMS ARE SUITABLE FOR VEGANS.",
+    "price": null
+  },
+  {
+    "title": "GF ITEMS ARE SUITABLE FOR COELIACS.",
+    "price": null
+  },
+  {
+    "title": "FULL ALLERGEN INFO MENU",
+    "price": null
+  },
+  {
+    "title": "AVA I L A B L E O N R EQ U EST.",
+    "price": null
+  },
+  {
+    "title": "The Greek vegan tradition is",
+    "price": null
+  },
+  {
+    "title": "centuries old - the first philosopher",
+    "price": null
+  },
+  {
+    "title": "to create a lasting vegan diet is",
+    "price": null
+  },
+  {
+    "title": "Pythagoras around 550 BCE.",
+    "price": null
+  },
+  {
+    "title": "In the Greek tradition there is",
+    "price": null
+  },
+  {
+    "title": "much adherence to a diet",
+    "price": null
+  },
+  {
+    "title": "completely free of animal",
+    "price": null
+  },
+  {
+    "title": "products for long fasting periods.",
+    "price": null
+  },
+  {
+    "title": "Simply the Greeks pretty much",
+    "price": null
+  },
+  {
+    "title": "invented veganism & we at The",
+    "price": null
+  },
+  {
+    "title": "Real Greek want to bring you a",
+    "price": null
+  },
+  {
+    "title": "Vegan menu that celebrates that,",
+    "price": null
+  },
+  {
+    "title": "with both traditional & modern",
+    "price": null
+  },
+  {
+    "title": "dishes, which we are sure you",
+    "price": null
+  },
+  {
+    "title": "will enjoy.",
+    "price": null
+  },
+  {
+    "title": "VEGAN MENU",
+    "price": null
+  },
+  {
+    "title": "Please tell your server if you don’t want chips inside!",
+    "price": null
+  }
+]

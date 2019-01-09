@@ -1,0 +1,814 @@
+[
+  {
+    "title": "With a strong focus on meat, we are dedicated to sourcing only the best,",
+    "price": null
+  },
+  {
+    "title": "premium grade meat from some of the country’s most reputable suppliers.",
+    "price": null
+  },
+  {
+    "title": "To help us deliver on this promise, our Chef and his team have adopted a",
+    "price": null
+  },
+  {
+    "title": "strict approach to sourcing, ageing and preparing our entire range of meats.",
+    "price": null
+  },
+  {
+    "title": "Over the last 40 years, we have forged close relationships with some of the",
+    "price": null
+  },
+  {
+    "title": "country’s best farmers and livestock producers hence, are able to select our",
+    "price": null
+  },
+  {
+    "title": "meats from farms across Victoria, Tasmania and New South Wales.",
+    "price": null
+  },
+  {
+    "title": "Our selection criterion focuses on the animal’s breed, weight, feed pattern,",
+    "price": null
+  },
+  {
+    "title": "marbling, pH level, colour and ageing of the meat.",
+    "price": null
+  },
+  {
+    "title": "BISTRO",
+    "price": null
+  },
+  {
+    "title": "SMALL PLATES",
+    "price": null
+  },
+  {
+    "title": "DUCK LIVER PARFAIT 19",
+    "price": 19
+  },
+  {
+    "title": "Toasted brioche, celeriac and hazelnut, aged balsamic vinegar",
+    "price": null
+  },
+  {
+    "title": "BRUSCHETTA 12",
+    "price": 12
+  },
+  {
+    "title": "Buffalo curd, peppers, olives, rocket",
+    "price": null
+  },
+  {
+    "title": "ARANCINI 9 (for 2)",
+    "price": null
+  },
+  {
+    "title": "Mushroom & taleggio arancini, whipped ricotta",
+    "price": null
+  },
+  {
+    "title": "POLENTA CHIPS 14",
+    "price": 14
+  },
+  {
+    "title": "Black garlic aioli, pecorino",
+    "price": null
+  },
+  {
+    "title": "POPCORN CHICKEN 17",
+    "price": 17
+  },
+  {
+    "title": "Melbourne Hot Sauce",
+    "price": null
+  },
+  {
+    "title": "PROSCIUTTO 21",
+    "price": 21
+  },
+  {
+    "title": "Carpaccio San Daniele Prosciutto, stracciatella, marinated",
+    "price": null
+  },
+  {
+    "title": "peppers",
+    "price": null
+  },
+  {
+    "title": "SLOW COOKED LAMB RIBS 19",
+    "price": 19
+  },
+  {
+    "title": "Salsa verde mayonnaise",
+    "price": null
+  },
+  {
+    "title": "GRILLED AUSTRALIAN PRAWNS 21",
+    "price": 21
+  },
+  {
+    "title": "Grilled chorizo, & cannellini bean salad",
+    "price": null
+  },
+  {
+    "title": "GROSVENOR TASTING BOARD Minimum 2 guests or more 19pp",
+    "price": null
+  },
+  {
+    "title": "Selection of cured meats, house pickles, olives, soft cheeses",
+    "price": null
+  },
+  {
+    "title": "and wood fired oven bread",
+    "price": null
+  },
+  {
+    "title": "MAINS",
+    "price": null
+  },
+  {
+    "title": "HAND ROLLED GNOCCHI 24",
+    "price": 24
+  },
+  {
+    "title": "Pan fried gnocchi, beurre noisette, peas, aged balsamic,",
+    "price": null
+  },
+  {
+    "title": "ricotta, lemon",
+    "price": null
+  },
+  {
+    "title": "LINGUINE DI MARE 29",
+    "price": 29
+  },
+  {
+    "title": "Fish fillet pieces, mussels, vongole, prawns, calamari,",
+    "price": null
+  },
+  {
+    "title": "garlic, chilli, extra virgin olive oil",
+    "price": null
+  },
+  {
+    "title": "FISH OF THE DAY 34",
+    "price": 34
+  },
+  {
+    "title": "Kipfler potatoes, caramelised fennel, crushed peas,",
+    "price": null
+  },
+  {
+    "title": "chive beurre blanc",
+    "price": null
+  },
+  {
+    "title": "GRILLED PRAWNS 35",
+    "price": 35
+  },
+  {
+    "title": "Grilled Australian Prawns, grilled chorizo, & cannellini bean salad",
+    "price": null
+  },
+  {
+    "title": "PORK BELLY 33",
+    "price": 33
+  },
+  {
+    "title": "Crispy skinned pork belly, pork croquette, radicchio,",
+    "price": null
+  },
+  {
+    "title": "apple sauce, apple balsamic",
+    "price": null
+  },
+  {
+    "title": "LAMB SHOULDER 33",
+    "price": 33
+  },
+  {
+    "title": "24 Hour slow cooked lamb shoulder, charred broccolini, sautéed",
+    "price": null
+  },
+  {
+    "title": "chard, bagna cauda, lamb jus",
+    "price": null
+  },
+  {
+    "title": "FISH & CHIPS 31",
+    "price": 31
+  },
+  {
+    "title": "Beer battered rockling, herb hollandaise, shaved fennel,",
+    "price": null
+  },
+  {
+    "title": "radish and dill salad & chips",
+    "price": null
+  },
+  {
+    "title": "STEAKS",
+    "price": null
+  },
+  {
+    "title": "CHARGRILLED TO YOUR LIKING | SERVED WITH CHIPS & SALAD",
+    "price": null
+  },
+  {
+    "title": "Porterhouse 250g/400g 39/59",
+    "price": null
+  },
+  {
+    "title": "Eye fillet + 250g/400g 46/68",
+    "price": null
+  },
+  {
+    "title": "Scotch fillet 300g/500g 44/74",
+    "price": null
+  },
+  {
+    "title": "Rib Eye – 28 day dry aged 500g/700g 55/68",
+    "price": null
+  },
+  {
+    "title": "Guest cut changes weekly",
+    "price": null
+  },
+  {
+    "title": "CONDIMENTS",
+    "price": null
+  },
+  {
+    "title": "Red wine, garlic butter, Peppercorn & Dijon, Porcini & Masala, Red",
+    "price": null
+  },
+  {
+    "title": "Wine, Bearnaise, Mustard, horseradish and chili offered at the table",
+    "price": null
+  },
+  {
+    "title": "TABLE SHARING",
+    "price": null
+  },
+  {
+    "title": "WHOLE SUCKLING PIG (3 days’ notice require) 660",
+    "price": 660
+  },
+  {
+    "title": "Western Plains Suckling Pig, sage and sourdough",
+    "price": null
+  },
+  {
+    "title": "stuffing, apple sauce",
+    "price": null
+  },
+  {
+    "title": "BANJO CUT LAMB SHOULDER 2-3 guest 82",
+    "price": 2
+  },
+  {
+    "title": "Souvide for 24 hour s, dukkah spiced & cauliflower salad",
+    "price": null
+  },
+  {
+    "title": "EYE FILLET 600g 96",
+    "price": 96
+  },
+  {
+    "title": "Served with hand cut chips, charred Broccolini, assortment of",
+    "price": null
+  },
+  {
+    "title": "sauces and garnishes",
+    "price": null
+  },
+  {
+    "title": "SALADS",
+    "price": null
+  },
+  {
+    "title": "CAESAR SALAD 18",
+    "price": 18
+  },
+  {
+    "title": "Baby Cos lettuce, crisp pancetta, organic egg, basil,",
+    "price": null
+  },
+  {
+    "title": "Caesar dressing",
+    "price": null
+  },
+  {
+    "title": "*Add chicken for an additional 12",
+    "price": 12
+  },
+  {
+    "title": "DUKKAH ROASTED CAULIFLOWER 15",
+    "price": 15
+  },
+  {
+    "title": "Nuts, grains, mint, parsley, raisins, and pomegranate dressing",
+    "price": null
+  },
+  {
+    "title": "SIDES",
+    "price": null
+  },
+  {
+    "title": "Charred Broccolini, bagna cauda 13",
+    "price": 13
+  },
+  {
+    "title": "Steamed green beans, ricotta salata, smoked almonds 12",
+    "price": 12
+  },
+  {
+    "title": "Mixed leaf salad, tomato, cucumber, red onion, goat’s feta 15",
+    "price": 15
+  },
+  {
+    "title": "Hand cut chips, oregano and thyme salt 11",
+    "price": 11
+  },
+  {
+    "title": "Sweet Potato fries 8",
+    "price": 8
+  },
+  {
+    "title": "Beer battered chips 8",
+    "price": 8
+  },
+  {
+    "title": "Crunchy onion rings 8",
+    "price": 8
+  },
+  {
+    "title": "ABOUT OUR STEAK:",
+    "price": null
+  },
+  {
+    "title": "We serve Southern Ranges MB2+ which is 100% Grass Fed Black Angus",
+    "price": 2
+  },
+  {
+    "title": "HGP Free & Antibiotic Free. Sourced from the rich green region of",
+    "price": null
+  },
+  {
+    "title": "Gippsland Victoria, selected for its superior quality, natural marbling,",
+    "price": null
+  },
+  {
+    "title": "rich colour, flavour and tenderness. Aged for minimum of 40 days in-",
+    "price": null
+  },
+  {
+    "title": "house ensuring superior eating quality and tenderness.",
+    "price": null
+  },
+  {
+    "title": "PUB CLASSICS",
+    "price": null
+  },
+  {
+    "title": "WHAT’S ON",
+    "price": null
+  },
+  {
+    "title": "LIVE MUSIC 7PM",
+    "price": null
+  },
+  {
+    "title": "JAMÈ FORBES THU",
+    "price": null
+  },
+  {
+    "title": "WED SUN",
+    "price": null
+  },
+  {
+    "title": "FUNKY BUNCH",
+    "price": null
+  },
+  {
+    "title": "TRIVIA",
+    "price": null
+  },
+  {
+    "title": "LIVE MUSIC 4PM",
+    "price": null
+  },
+  {
+    "title": "TIM WATSON",
+    "price": null
+  },
+  {
+    "title": "HAPPY HOUR EVERY",
+    "price": null
+  },
+  {
+    "title": "NIGHT 5 – 7PM",
+    "price": null
+  },
+  {
+    "title": "TUE SAT",
+    "price": null
+  },
+  {
+    "title": "BINGO + BYO WINE",
+    "price": null
+  },
+  {
+    "title": "FROM BOTTLE SHOP",
+    "price": null
+  },
+  {
+    "title": "HOPPY HOUR 5-7PM",
+    "price": 5
+  },
+  {
+    "title": "DJ 5 – 10PM",
+    "price": null
+  },
+  {
+    "title": "MEAT RAFFLE",
+    "price": null
+  },
+  {
+    "title": "LATIN NIGHT 9PM LIVE SPORT",
+    "price": null
+  },
+  {
+    "title": "MON",
+    "price": null
+  },
+  {
+    "title": "FRI",
+    "price": null
+  },
+  {
+    "title": "$15 BURGERS",
+    "price": 15
+  },
+  {
+    "title": "+ BINGO",
+    "price": null
+  },
+  {
+    "title": "MON TUES",
+    "price": null
+  },
+  {
+    "title": "$15 WOOD",
+    "price": 15
+  },
+  {
+    "title": "FIRED PIZZA",
+    "price": null
+  },
+  {
+    "title": "$15 PARMAS",
+    "price": 15
+  },
+  {
+    "title": "+ TRIVIA WED THU",
+    "price": null
+  },
+  {
+    "title": "$20 AGED 250G",
+    "price": 20
+  },
+  {
+    "title": "PORTERHOUSE",
+    "price": null
+  },
+  {
+    "title": "2 FOR 1 COCKTAILS",
+    "price": null
+  },
+  {
+    "title": "*Public Holiday surcharge applies",
+    "price": null
+  },
+  {
+    "title": "BURGERS",
+    "price": null
+  },
+  {
+    "title": "BURGER HAND PRESSED, 100% AGED ANGUS BEEF",
+    "price": null
+  },
+  {
+    "title": "SERVED WITH CHIPS | GLUTEN FREE BUN AVAILABLE",
+    "price": null
+  },
+  {
+    "title": "THE GROSVENOR 24",
+    "price": 24
+  },
+  {
+    "title": "Beef, cheese, smokey bacon, lettuce, tomato, pickles",
+    "price": null
+  },
+  {
+    "title": "2 UP 25",
+    "price": 25
+  },
+  {
+    "title": "Double beef, double cheese, double bacon, hash brown,",
+    "price": null
+  },
+  {
+    "title": "spicy mayo, lettuce",
+    "price": null
+  },
+  {
+    "title": "CHEESE BURGER 22",
+    "price": 22
+  },
+  {
+    "title": "Beef, double cheese, pickles, house ketchup,",
+    "price": null
+  },
+  {
+    "title": "THE ALL BLACKS 25",
+    "price": 25
+  },
+  {
+    "title": "Black Angus Beef Pattie, grilled mushroom, tomato, cheese,",
+    "price": null
+  },
+  {
+    "title": "crispy bacon, house ketchup, truffle mayo in a black roll",
+    "price": null
+  },
+  {
+    "title": "NEMO 25",
+    "price": 25
+  },
+  {
+    "title": "Beer battered fish fillet, shed sauce, cheddar, pickles, coleslow",
+    "price": null
+  },
+  {
+    "title": "HOT BIRD 24",
+    "price": 24
+  },
+  {
+    "title": "Grilled spicy chicken breast, pickled cucumber, kewpie,",
+    "price": null
+  },
+  {
+    "title": "sriracha, coleslaw",
+    "price": null
+  },
+  {
+    "title": "PARMA",
+    "price": null
+  },
+  {
+    "title": "ALL PARMA 28",
+    "price": 28
+  },
+  {
+    "title": "SERVED WITH CHIPS & DRESSED LEAVES",
+    "price": null
+  },
+  {
+    "title": "NOSTALGIC",
+    "price": null
+  },
+  {
+    "title": "Shaved leg ham, Napoli, mozzarella, beer battered chips",
+    "price": null
+  },
+  {
+    "title": "ADO VOLCANO",
+    "price": null
+  },
+  {
+    "title": "Panko crumbed breast, shaved leg ham, tasty cheese,",
+    "price": null
+  },
+  {
+    "title": "jalapenos, and salsa",
+    "price": null
+  },
+  {
+    "title": "THE ONE",
+    "price": null
+  },
+  {
+    "title": "Panko crumbed breast, Bolognese, spicy salami béchamel,",
+    "price": null
+  },
+  {
+    "title": "herb and citrus crumb",
+    "price": null
+  },
+  {
+    "title": "ITALIAN JOB",
+    "price": null
+  },
+  {
+    "title": "Panko crumb chicken fillet, prosciutto, marinated red capsicum,",
+    "price": null
+  },
+  {
+    "title": "straciatella, basil",
+    "price": null
+  },
+  {
+    "title": "MELANZANE",
+    "price": null
+  },
+  {
+    "title": "Oven baked eggplant, goat’s cheese sauce, parmesan,",
+    "price": null
+  },
+  {
+    "title": "Napoli, herb crumb, sweet potato fries",
+    "price": null
+  },
+  {
+    "title": "KIDS",
+    "price": null
+  },
+  {
+    "title": "Chicken schnitzel & chips 15",
+    "price": 15
+  },
+  {
+    "title": "Minute steak & veg 16",
+    "price": 16
+  },
+  {
+    "title": "Grilled fish & veg 15",
+    "price": 15
+  },
+  {
+    "title": "Cheeseburger 13",
+    "price": 13
+  },
+  {
+    "title": "Rigatone Bolognese 12",
+    "price": 12
+  },
+  {
+    "title": "Margherita or Hawaiian Pizza 13",
+    "price": 13
+  },
+  {
+    "title": "WOOD FIRED PIZZA",
+    "price": null
+  },
+  {
+    "title": "GLUTEN FREE BASE AVAILABLE AT NO EXTRA CHARGE",
+    "price": null
+  },
+  {
+    "title": "FOCCACIA",
+    "price": null
+  },
+  {
+    "title": "Sea salt & rosemary 10",
+    "price": 10
+  },
+  {
+    "title": "Garlic & Cheese or Herb & Cheese 15",
+    "price": 15
+  },
+  {
+    "title": "MARGHERITA 20",
+    "price": 20
+  },
+  {
+    "title": "Tomato, mozzarella, olive oil, basil",
+    "price": null
+  },
+  {
+    "title": "STRACCIA 24",
+    "price": 24
+  },
+  {
+    "title": "Pesto, cherry tomatoes, mozzarella, stracciatella",
+    "price": null
+  },
+  {
+    "title": "FOUR CHEESE 23",
+    "price": 23
+  },
+  {
+    "title": "Mozzarella, gorgonzola, smoked scamorza, parmesan, oregano",
+    "price": null
+  },
+  {
+    "title": "FUNGHI 26",
+    "price": 26
+  },
+  {
+    "title": "Mozzarella, button mushrooms, king brown mushrooms, truffle oil,",
+    "price": null
+  },
+  {
+    "title": "goat cheese, enoki",
+    "price": null
+  },
+  {
+    "title": "HAWAIIAN 23",
+    "price": 23
+  },
+  {
+    "title": "Tomato, mozzarella, ham, pineapple",
+    "price": null
+  },
+  {
+    "title": "PATATA 24",
+    "price": 24
+  },
+  {
+    "title": "Mozzarella, potatoes, caramelized onions, prosciutto, rosemary",
+    "price": null
+  },
+  {
+    "title": "CAPRICCIOSA 23",
+    "price": 23
+  },
+  {
+    "title": "Tomato, mozzarella, ham, mushrooms, olives, artichokes",
+    "price": null
+  },
+  {
+    "title": "BUFFALINA 26",
+    "price": 26
+  },
+  {
+    "title": "Tomato, buffalo mozzarella, prosciutto, basil",
+    "price": null
+  },
+  {
+    "title": "CARNE 23",
+    "price": 23
+  },
+  {
+    "title": "Tomato, mozzarella, ham, salami, mushrooms, caramelized",
+    "price": null
+  },
+  {
+    "title": "onions, chilli",
+    "price": null
+  },
+  {
+    "title": "CALABRESE 24",
+    "price": 24
+  },
+  {
+    "title": "Tomato, mozzarella, hot salami, capsicum, chilli",
+    "price": null
+  },
+  {
+    "title": "SICILIANA 23",
+    "price": 23
+  },
+  {
+    "title": "Tomato, mozzarella, eggplant, sausage, basil, parmesan",
+    "price": null
+  },
+  {
+    "title": "PUMPKIN 22",
+    "price": 22
+  },
+  {
+    "title": "Pumpkin purè, mozzarella, caramelized onions, goat cheese",
+    "price": null
+  },
+  {
+    "title": "CHORIZO 24",
+    "price": 24
+  },
+  {
+    "title": "Tomato, scamorza, Spanish chorizo, brie",
+    "price": null
+  },
+  {
+    "title": "MARINARA 27",
+    "price": 27
+  },
+  {
+    "title": "Mozzarella, mussels, prawns, fresh fish fillet, garlic, cherry tomato,",
+    "price": null
+  },
+  {
+    "title": "shaved fennel, chilli.",
+    "price": null
+  },
+  {
+    "title": "NAPOLITANA 21",
+    "price": 21
+  },
+  {
+    "title": "Tomatoes, olives, anchovy, oregano, buffala, garlic",
+    "price": null
+  }
+]
