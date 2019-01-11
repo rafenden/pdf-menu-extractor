@@ -1,0 +1,290 @@
+[
+  {
+    "title": "ANTIPASTI",
+    "price": null
+  },
+  {
+    "title": "FRIED ZUCCHINI and paprika (v) 4.50",
+    "price": 4.5
+  },
+  {
+    "title": "GOAT CHEESE with grilled vegetable and",
+    "price": null
+  },
+  {
+    "title": "balsamic vinegar (v) 8.50",
+    "price": 8.5
+  },
+  {
+    "title": "BAKED AUBERGINE PARMIGIANA (v) 7.50",
+    "price": 7.5
+  },
+  {
+    "title": "BEEF BRESAOLA served with tuna sauce 9.50",
+    "price": 9.5
+  },
+  {
+    "title": "BURRATA CHEESE with cherry tomato and basil (v) 8.50",
+    "price": 8.5
+  },
+  {
+    "title": "PAN FRIED TIGER PRAWNS with rocket, garlic, chilly",
+    "price": null
+  },
+  {
+    "title": "and white wine 9.00",
+    "price": 9
+  },
+  {
+    "title": "TRIS OF BRUSCHETTA tomato and basil/ mixed",
+    "price": null
+  },
+  {
+    "title": "mushrooms and truffle/ nduja saussage and burrata 7.50",
+    "price": 7.5
+  },
+  {
+    "title": "DEEP FRIED SQUID CALAMARI with nduja sausasge 9.00",
+    "price": 9
+  },
+  {
+    "title": "SELECTION OF ITALIAN CHARCUTERIE (min. two person) 19.50",
+    "price": 19.5
+  },
+  {
+    "title": "COURGETTES TIMBALES with mozzarella and",
+    "price": null
+  },
+  {
+    "title": "basil pesto(v) 7.00",
+    "price": 7
+  },
+  {
+    "title": "STEWED BABY OCTOPUS in tomato sauce, chilli and black",
+    "price": null
+  },
+  {
+    "title": "olives and garlic bruschetta 8.50 8.50",
+    "price": 8.5
+  },
+  {
+    "title": "CONTORNI",
+    "price": null
+  },
+  {
+    "title": "BROCCOLI 4.00",
+    "price": 4
+  },
+  {
+    "title": "SAUTEED POTATOES 4.00",
+    "price": 4
+  },
+  {
+    "title": "MIX SALAD 3.50",
+    "price": 3.5
+  },
+  {
+    "title": "GREEN SALAD 3.50",
+    "price": 3.5
+  },
+  {
+    "title": "ROCKET SALAD 3.50",
+    "price": 3.5
+  },
+  {
+    "title": "INSALATONE",
+    "price": null
+  },
+  {
+    "title": "POPPEA with cherry tomato, plum tomato, red",
+    "price": null
+  },
+  {
+    "title": "onion, oregano, goats cheese and pine nuts (v) 9.00",
+    "price": 9
+  },
+  {
+    "title": "VENERE with avocado, yogurt, cashew, pear,",
+    "price": null
+  },
+  {
+    "title": "cucumber and smoked salmon 10.00",
+    "price": 10
+  },
+  {
+    "title": "NERONE with baby spinach, chicken, grilled",
+    "price": null
+  },
+  {
+    "title": "bread, parmesan, almond, mustard dressing",
+    "price": null
+  },
+  {
+    "title": "and crispy pancetta 10.50",
+    "price": 10.5
+  },
+  {
+    "title": "PIZZA",
+    "price": null
+  },
+  {
+    "title": "MARGHERITA tomato sauce, mozzarella and basil(v) 8.00",
+    "price": 8
+  },
+  {
+    "title": "ORTOLANA pomodoro mozzarella, courgettes,",
+    "price": null
+  },
+  {
+    "title": "aubergines and mushrooms(v) 9.50",
+    "price": 9.5
+  },
+  {
+    "title": "DIAVOLA tomato sauce, mozzarella and spicy salami 9.50",
+    "price": 9.5
+  },
+  {
+    "title": "SALSICCIA e friarielli mozzarella, tourni tops and",
+    "price": null
+  },
+  {
+    "title": "italian sausage 9.50",
+    "price": 9.5
+  },
+  {
+    "title": "PARMIGIANA tomato sauce,aubergine,mozzarella,",
+    "price": null
+  },
+  {
+    "title": "grana padano and basil (v) 9.50",
+    "price": 9.5
+  },
+  {
+    "title": "CALZONE mozzarella, ricotta cheese, salame napoli",
+    "price": null
+  },
+  {
+    "title": "and black pepper 10.00",
+    "price": 10
+  },
+  {
+    "title": "Da GIUA’ tomato sauce ,mozzarella burrata cheese",
+    "price": null
+  },
+  {
+    "title": "Parma Ham and rocket 13.00",
+    "price": 13
+  },
+  {
+    "title": "TARTUFO mozzarella, black truffle, cheese fondu",
+    "price": null
+  },
+  {
+    "title": "and crispy pancetta 13.00",
+    "price": 13
+  },
+  {
+    "title": "VALTELLINA mozzarella,bresaola,rocket and shaved",
+    "price": null
+  },
+  {
+    "title": "grana padano 13.00",
+    "price": 13
+  },
+  {
+    "title": "SECONDI",
+    "price": null
+  },
+  {
+    "title": "(pasta gluten free available)",
+    "price": null
+  },
+  {
+    "title": "SPAGHETTI TOMATO SAUCE basil and mozzarella (v) 8.50",
+    "price": 8.5
+  },
+  {
+    "title": "TAGLIATELLE BOLOGNESE tomato, parmesan cheese",
+    "price": null
+  },
+  {
+    "title": "beef and peas 11.00",
+    "price": 11
+  },
+  {
+    "title": "PAPPARDELLE VEAL RAGU and black truffle 13.50",
+    "price": 13.5
+  },
+  {
+    "title": "ORECCHIETTE with pistachio pesto and prawns 14.50",
+    "price": 14.5
+  },
+  {
+    "title": "LINGUINE with crab and courgette sauce 14.50",
+    "price": 14.5
+  },
+  {
+    "title": "RISOTTO with mix seafood (prawns, mussels, squid and",
+    "price": null
+  },
+  {
+    "title": "clams) 16.00",
+    "price": 16
+  },
+  {
+    "title": "GRILLED SWORDFISH cherry tomatoes,onion and",
+    "price": null
+  },
+  {
+    "title": "avocado salad 14.00",
+    "price": 14
+  },
+  {
+    "title": "GRILLED FILLET OF SEABASS sauteed broccoli,chilly",
+    "price": null
+  },
+  {
+    "title": "and garlic 14.50",
+    "price": 14.5
+  },
+  {
+    "title": "CHICKEN BREAST MILANESE with rocket and",
+    "price": null
+  },
+  {
+    "title": "Parmesan shavings 12.50",
+    "price": 12.5
+  },
+  {
+    "title": "VEAL ESCALOPE in mushroom sauce with sauteed",
+    "price": null
+  },
+  {
+    "title": "potatoes 16.50",
+    "price": 16.5
+  },
+  {
+    "title": "SIRLOIN BEEF TAGLIATA with mix vegetable and",
+    "price": null
+  },
+  {
+    "title": "balsamic reduction 18.00",
+    "price": 18
+  },
+  {
+    "title": "Please do let us know of any allergies",
+    "price": null
+  },
+  {
+    "title": "or intolerances before ordering",
+    "price": null
+  },
+  {
+    "title": "Prices include 20% VAT and are subject",
+    "price": null
+  },
+  {
+    "title": "to 12.5% discretionary Service charge",
+    "price": null
+  }
+]
